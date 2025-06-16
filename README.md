@@ -1,3 +1,11 @@
 # OCS-Final-Project
+## About Repo
+This repository contains all files used to execute one of our cyber attacks
 
-OCS doc: https://docs.google.com/document/d/1gGMR4fYMGIs_vw1_UOM86EjprAm-AVjB0t1IphShFhI/edit?usp=sharing
+## Team members:
+- Meie Koning
+- Lucas Spronk
+- Pijke van Bohemen
+- Jarno Vlaar
+
+## Link to video:
